@@ -8,5 +8,3 @@ JKL
 MNO
 PQR
 STU
-VW
-XYZ
